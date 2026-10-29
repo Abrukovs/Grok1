@@ -5,3 +5,4 @@
 ## Содержимое
 
 - `docs/automations/Daily-Soccer-Betting-Picks.md` — полная копия автоматизации **Daily Soccer Betting Picks** (промпт, расписание, принципы).
+- `docs/automations/Daily-Soccer-Betting-Picks-HISTORY.md` — журнал прошлых срабатываний (октябрь 2026): даты, заголовки результатов, conversationId.
